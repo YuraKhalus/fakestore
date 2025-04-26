@@ -68,7 +68,7 @@
    border-radius: 100%
 }
 .containerr {
-    height:100px;
+    
     width: 1100px;
     margin: auto;
     padding: 40px 20px;
@@ -122,10 +122,7 @@
   .carousel {
     display: flex;
     gap: 20px;
-    overflow-x: auto;
-    padding-top: 40px;
-    scroll-behavior: smooth;
-    margin-top: 100px;
+    margin-top: 80px;
   }
   
   .testimonial-card {
